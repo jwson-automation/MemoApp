@@ -7,10 +7,10 @@
 
 
 ## Feature List
-[O] Memo Upload
-[O] Memo Update
-[O] Memo Delete
-[O] Memo Alarm (BroadCast)
+- [O] Memo Upload
+- [O] Memo Update
+- [O] Memo Delete
+- [O] Memo Alarm (BroadCast)
 
 ## Capture
 
